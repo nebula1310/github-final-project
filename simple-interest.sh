@@ -2,8 +2,8 @@
    # This script calculates simple interest given principal,
    # annual rate of interest and time period in years.
    # Do not use this in production. Sample purpose only.
-   # Author: nebula jr
-   # Additional Authors: Upkar Lidder
+   # Author: Upkar Lidder
+   # Additional Authors: nebula1310
    # <nebula1310>
    # Input:
    # p, principal amount
